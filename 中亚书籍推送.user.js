@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  gk7:书籍：中亚书籍推送到kindle
 // @author       jacksyen
+// @include      https://www.amazon.cn/*/dp/*
 // @include      http://www.amazon.cn/*/dp/*
 // @include      https://www.amazon.cn/gp/digital/fiona/*
 // @require      http://code.jquery.com/jquery-2.1.1.min.js
